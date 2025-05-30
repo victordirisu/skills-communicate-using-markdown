@@ -2,4 +2,4 @@
 ## This is an H2 header
 ### This is a H3 header
 
-![Image of a dog] (https://images.app.goo.gl/YRmFaSMXq3PBrN889)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
