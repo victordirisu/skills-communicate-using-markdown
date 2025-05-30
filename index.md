@@ -11,3 +11,7 @@ https://forms.office.com/pages/responsepage.aspx?id=Im2p0gje4Ui8Q3jnDZV-g0E4fdA1
 ``` javascript
 var greeting = "Hello World!"
 ```
+
+- [ ] Turn on Github Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
